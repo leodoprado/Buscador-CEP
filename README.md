@@ -13,4 +13,4 @@
   * Axios
   * Styled-components
   
-   ***Execute o programa com o comando: npm start***
+   ***Execute o programa com o comando: `npm start`***
