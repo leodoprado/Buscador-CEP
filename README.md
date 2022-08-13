@@ -1,6 +1,6 @@
 # Consumindo API com `React` para Buscar CEP🔎
 
-***Projeto simples para `praticar` assuntos teóricos.***
+***Projeto simples para praticar assuntos teóricos.***
 
 **API: https://viacep.com.br/ws/**
 
