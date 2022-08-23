@@ -13,4 +13,4 @@
   * Axios
   * Styled-components
   
-   ***Execute o programa com o comando: `npm start`***
+   ***Instale as dependências do projeto utilizando o comando: `npm install`***
